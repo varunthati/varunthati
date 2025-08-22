@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @varunthati
-- 👀 I’m interested in ...FRONT END 
-- 🌱 I’m currently learning ... FULL STACK, JAVA SCRPIT
+- 👀 I’m interested in ...FRONT END AND BACK END 
+- 🌱 I’m currently learning ... FULL STACK, JAVA SCRPIT, PYTHON 
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...varunthati1778749@gmail.com
 - 😄 Pronouns: ...
